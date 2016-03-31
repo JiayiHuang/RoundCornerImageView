@@ -13,6 +13,7 @@
         app:leftBottom_angle="true"
         app:rightTop_angle="true"
         app:corner_radius="10dp"
+        android:adjustViewBounds="true"
         android:id="@+id/roundImageView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
